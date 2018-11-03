@@ -26,9 +26,3 @@ root.geometry("1000x400")
 app = Application(master=root)
 app.mainloop()
 root.destroy()
-
-#edit
-
-#Yeseul
-
-#Nallu
